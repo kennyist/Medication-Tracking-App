@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">procNew</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_compose">action_compose</string>
+    <string name="action_search">action_search</string>
+    <string name="graph">graph</string>
+    <string name="entryTitle">Add Entry</string>
+    <string name="stbvalue">250</string>
+    <string name="Add">add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="about">About string</string>
+
+</resources>
